@@ -10,6 +10,7 @@ To discover new techniques and ideas.
 React
 
 ## Code Thoughts and Approach
+**Drew out frame work on paper
 **Create a Nav Bar and Footer**
 
 **- Nav Bar Features**
