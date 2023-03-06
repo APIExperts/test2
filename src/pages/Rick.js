@@ -48,7 +48,7 @@ function Rick() {
       <h1>Random Ricks</h1>
       <div className="flexy">
         {rick.map((rick) => (
-          <div>
+          <div className = "test">
             <div className="listNamed">
               <h2>{rick.name}</h2>
             </div>

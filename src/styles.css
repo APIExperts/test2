@@ -86,8 +86,10 @@ input {
 } */
 .flexy {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
+  flex-wrap: wrap;
+  
 }
 
 .listNamed {
@@ -118,4 +120,19 @@ span {
   color: black;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   
+}
+
+
+img{
+  position:absoulte;
+  margin-top:10px;
+}
+.speciez {
+  position: ;
+  left:100px;
+  top:150px;
+}
+
+.test{
+  position: relative;
 }

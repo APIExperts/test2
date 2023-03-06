@@ -6,7 +6,7 @@ function Alien() {
   let [page, setPage] = useState(0);
 
   let ranNum = function () {
-    return Math.floor(Math.random() * 4 + 1);
+    return Math.floor(Math.random() * 9 + 1);
     // 0 - 0.99
     // 0.00 - 4.839383
     // 1.00 - 5.839383
