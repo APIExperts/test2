@@ -70,6 +70,10 @@ https://coolors.co/ is also helpful
 ### Animted Loading Screen
 I wanted to replace the react loading screen with my own GIF. 
 
+### When looking up Alien Morty how do I put logic that routes it back to /morty? instead of /alien&morty?
+I want to take an approach of putting logic that will check to see if the input contains these names: Morty,Jerry, Rick, Wasps. 
+If it does it will only link to these pages. 
+
 ### How to make it so that the when I click a route the section will only show when everything is loaded.
 
 
