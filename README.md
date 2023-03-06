@@ -51,7 +51,8 @@ This helps us create a clean webpage with nav bar and routes.
 ### flexbox
 This helps us organize our website more easily. 
 
-
+### https://coolors.co/ 
+helps create color pallete that matches
 ### Problems 
 
 
