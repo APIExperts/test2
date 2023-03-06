@@ -25,7 +25,7 @@ Search section for episodes
 
 
 **Character Search**
- When characters are searched a picture and properties will of the character will show. 
+ When characters are searched a picture and properties of the character will show. 
 
 
 **Episode Search**
