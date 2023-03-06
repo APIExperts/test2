@@ -29,7 +29,7 @@ Search section for episodes
 
 
 **Episode Search**
- Information about the spide will be displayed.
+ Information about the episode will be displayed.
 
 **Random Section** 
   random characters of that type will be shown
