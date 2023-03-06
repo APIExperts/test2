@@ -69,6 +69,7 @@ https://coolors.co/ is also helpful
 ### Animted Loading Screen
 I wanted to replace the react loading screen with my own GIF. 
 
+### How to make it so that the when I click a route the section will only show when everything is loaded.
 
 
 # Installation Instructions
