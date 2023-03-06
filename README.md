@@ -11,6 +11,10 @@ React
 
 ## Code Thoughts and Approach
 **Drew out frame work on paper
+
+**Drew out Display lay out
+
+
 **Create a Nav Bar and Footer**
 
 **- Nav Bar Features**
