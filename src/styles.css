@@ -36,12 +36,12 @@
 
 .status {
   color: red;
-  background-color: #sFAFD7CFF;
-  border-radius: ;
+  /* background-color: #sFAFD7CFF; */
+  /* border-radius: ; */
 }
 
 body {
-  background-color: #fb646799;
+  background-color: #69c8ecff;
 }
 
 button {
@@ -111,5 +111,5 @@ h1 {
 span {
   color: black;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
-  font-size: 15px;
+  
 }
