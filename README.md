@@ -54,8 +54,12 @@ This helps us organize our website more easily.
 
 ### Problems 
 
-## Footer
-I had trouble trying to keep the footer at bottom of page.
+
+
+## Alt for image shows up as default
+My image information is only set when someone searches for a character.
+Therefore the alt error kept showing up.
+I put some logic and made it so that the img tag would only show when there is an image property.
 
 ## CSS
 I had trouble with the color scheme for my website so I googled Rick and Morty pallete. 
