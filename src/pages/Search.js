@@ -41,7 +41,7 @@ function Search() {
   // This will make it run every time any state changes
   // If I put [] for second it will run first time
   return (
-    <div>
+    <div className >
       <div>
         <h2>Character Render</h2>
         <form onSubmit={handleSubmit}>
@@ -60,19 +60,19 @@ function Search() {
             <span>Location:</span> {char.location}
           </h2>
         </div>
-        <div className="species">
+        
+        {char.species ?
+          (<div className="species">
           <h2>Species: {char.species}</h2>
-        </div>
+        </div>) : ("")}
         <div className="status">
           <h2>Status: {char.status}</h2>
         </div>
-        {char.icon ? (
+        
           <Link to={`/${name}`}>
-            <img src={char.icon} alt=" Error Loading Icon" />
+            <img src={char.icon} />
           </Link>
-        ) : (
-          ""
-        )}
+        
       </div>
     </div>
   );
