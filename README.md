@@ -49,39 +49,25 @@ This is used to rerender with dependency
 This helps us create a clean webpage with nav bar and routes. 
 
 ### flexbox
-
+This helps us organize our website more easily. 
 
 
 ### Problems 
 
-## event.target and onclick
- -I had an issue with making the button return a certain value.
- -I consololed log with the event actually was in order to better understand what I could do.
--I ended up making the code return a specific value depending on the button clicked.
--There may have been a better approach.
--onclick is a short hand approach to event listener but only for the click
+## Footer
+I had trouble trying to keep the footer at bottom of page.
+
+## CSS
+I had trouble with the color scheme for my website so I googled Rick and Morty pallete. 
+You can see the color pallete for many different shows. It can help with the theme of your website. 
+https://coolors.co/ is also helpful
+
+### Animted Loading Screen
+I wanted to replace the react loading screen with my own GIF. 
 
 
-### design background
-I wanted to make a live animated background but ended up with a more classic approach. 
 
-### Reset Button
-I originally had my reset button refresh the page.
-I then decided to reset my score and results to empty strings instead
-
-
-### Check Score
-I'm still trying to figure out how to make an animated window pop up instead of window prompt to print the score.
-
-
-### design sound
-I would like there to be sounds in the background.
-
-### design icons
-I'd like my icons to be animated. 
-
-
-Installation Instructions
+# Installation Instructions
 
 # Getting Started with Create React App
 
