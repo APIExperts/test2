@@ -79,10 +79,15 @@ input {
   width: 100vw;
 }
 
-.flexy {
+/* .flexy {
   display: grid;
   grid-template-columns: 33% 33% 33%;
   column-gap: 10px;
+} */
+.flexy {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .listNamed {
