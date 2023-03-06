@@ -74,6 +74,9 @@ I wanted to replace the react loading screen with my own GIF.
 I want to take an approach of putting logic that will check to see if the input contains these names: Morty,Jerry, Rick, Wasps. 
 If it does it will only link to these pages. 
 
+If name state .contains Morty then link /morty
+if name state .contains Jerry then link /Jerry
+
 ### How to make it so that the when I click a route the section will only show when everything is loaded.
 
 
