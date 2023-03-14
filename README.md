@@ -1,3 +1,95 @@
+# Rick and Morty API
+## ***Motivation***
+Motivation for this project was to help practice my React understanding and usage.
+To discover new techniques and ideas. 
+
+
+
+
+## Code Style
+React
+
+## Code Thoughts and Approach
+**Drew out frame work on paper
+
+**Drew out Display lay out
+
+
+**Create a Nav Bar and Footer**
+
+**- Nav Bar Features**
+ Search section for exact character
+ Home page section
+ Random Ricks Section
+ Random Mortys Section
+ Random Aliens Section
+ Favourite characters
+
+**- Footer Features**
+Search section for episodes
+
+
+**Character Search**
+ When characters are searched a picture and properties of the character will show. 
+
+
+**Episode Search**
+ Information about the episode will be displayed.
+
+**Random Section** 
+  random characters of that type will be shown
+
+
+ ### Technologies Used
+ 
+ 
+ ### Mathrandom
+
+### useState
+This is used to update
+
+### React
+A javascript library to build interfaces
+
+### useEffect
+This is used to rerender with dependency 
+### React Router Dom
+This helps us create a clean webpage with nav bar and routes. 
+
+### flexbox
+This helps us organize our website more easily. 
+
+### https://coolors.co/ 
+helps create color pallete that matches
+### Problems 
+
+
+
+## Alt for image shows up as default
+My image information is only set when someone searches for a character.
+Therefore the alt error kept showing up.
+I put some logic and made it so that the img tag would only show when there is an image property.
+
+## CSS
+I had trouble with the color scheme for my website so I googled Rick and Morty pallete. 
+You can see the color pallete for many different shows. It can help with the theme of your website. 
+https://coolors.co/ is also helpful
+
+### Animted Loading Screen
+I wanted to replace the react loading screen with my own GIF. 
+
+### When looking up Alien Morty how do I put logic that routes it back to /morty? instead of /alien&morty?
+I want to take an approach of putting logic that will check to see if the input contains these names: Morty,Jerry, Rick, Wasps. 
+If it does it will only link to these pages. 
+
+If name state .contains Morty then link /morty
+if name state .contains Jerry then link /Jerry
+
+### How to make it so that the when I click a route the section will only show when everything is loaded.
+
+
+# Installation Instructions
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -70,3 +162,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # test2
 # test2
+
+
+###### Link to live Site: 
+https://apitestrmz.netlify.app/
